@@ -1,0 +1,6 @@
+{
+  "name": "Smart Student ID Generator Pro – 2026 Edition",
+  "description": "Comprehensive college student management and professional CR80 student ID card generation system with QR verification, batch processing, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
